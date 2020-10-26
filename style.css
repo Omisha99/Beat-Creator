@@ -73,6 +73,9 @@ header p{
 .pad7 {
     background-image:linear-gradient(120deg, #00ff88, #00383a);
 }
+.pad8 {
+    background-image:linear-gradient(120deg, #f563dd, #38003a);
+}
 .visual > div{
     position: absolute;
     height: 50px;
