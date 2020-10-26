@@ -41,7 +41,7 @@ header p{
 }
 
 .pads > div {
-    height: 100px;
+    height: 150px;
     width: 100px;
     flex: 1;
 }
@@ -70,6 +70,9 @@ header p{
     background-image:linear-gradient(120deg, #ff8800, #995200);
 }
 
+.pad7 {
+    background-image:linear-gradient(120deg, #00ff88, #00383a);
+}
 .visual > div{
     position: absolute;
     height: 50px;
