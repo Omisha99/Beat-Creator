@@ -5,7 +5,7 @@
 }
 
 body  {
-    background-image: url("https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-image: url("https://image.freepik.com/free-vector/abstract-neon-lights-background-design_23-2148647098.jpg");
     background-color: #cccccc;
     background-position: center; 
     background-repeat: no-repeat; 
@@ -22,16 +22,20 @@ body  {
 }
 
 header h1 {
-    margin: 100px 0px 50px 0px;
+    margin: 200px 0px 50px 0px;
     text-align: center;
     font-size: 80px;
-    color: #61ffd0
+    background: -webkit-linear-gradient(#ffffff, #cc00ff, #00f7ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 header p{
     text-align: center;
-    color: #ccff6d;
-    font-size: 35px;
+    background: -webkit-linear-gradient(#00f7ff, #cc00ff, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
+    font-size: 45px;
 }
 
 .pads {
@@ -72,6 +76,9 @@ header p{
 
 .pad7 {
     background-image:linear-gradient(120deg, #00ff88, #00383a);
+}
+.pad8 {
+    background-image:linear-gradient(120deg, #f563dd, #38003a);
 }
 .visual > div{
     position: absolute;

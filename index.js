@@ -9,7 +9,8 @@ window.addEventListener("load", () => {
         "#fffb00",
         "#8d2acf",
         "#ff8800",
-        "#00ff88"
+        "#00ff88",
+        "#f563dd"
     ];
 
     //Sound here
